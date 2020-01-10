@@ -1,6 +1,8 @@
 # VDCNN
 Implementation of Character-level convolutional model for Transfer Learning tasks in NLP
 
+Paper accessible [here](https://github.com/RamyGrb/VDCNN/blob/master/research_paper_ghorayeb_martinez_palacci.pdf)
+
 Author: Ramy Ghorayeb, Hugo Martinez, Ilan Palacci
 
 ## Note
